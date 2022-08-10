@@ -135,13 +135,27 @@
     box-shadow: 0 0 5px 1px rgba(128, 128, 128, 0.603);
     margin-left: 12rem;
     font-family: 'Poppins','sans serif';
-    padding-top: rem;
+    display: flex;
+    flex-direction: row;
+    
 }
 
 #right-pane h2{
     border-bottom: solid 1px rgb(226, 226, 226);
-    padding: 8rem 0 3rem 1.5rem;
+    padding: 10rem 0 2rem 1.8rem;
 }
+
+#sales-pie{
+    margin-top: 20rem;
+    box-shadow: 0 0 5px 1px rgba(128, 128, 128, 0.603);
+    height: 15rem;
+    width: 15rem;
+    text-align: center;
+    line-height: 15rem;
+    border-radius: 50%;
+
+}
+
 
 
 
